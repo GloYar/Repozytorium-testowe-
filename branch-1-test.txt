@@ -1,3 +1,4 @@
 dodaję losową linijkę tekstu, by zakktualizować brancha.
 
-Ewelinka ma kota o imieniu Io
+
+Ewcia ma kota o imieniu Io i kotkę o imieniu Nala
