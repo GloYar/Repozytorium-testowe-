@@ -1,1 +1,3 @@
 dodaję losową linijkę tekstu, by zakktualizować brancha.
+
+Ewela na kotkę o imieniu Nala
